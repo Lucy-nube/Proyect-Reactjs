@@ -52,4 +52,4 @@ El proyecto cuenta con dos ramas principales:
 *   **`main`**: Contiene este código fuente legible, estructurado y listo para evaluar.
 *   **`gh-pages`**: Contiene los archivos de distribución compilados (`dist`) que sirven para visualizar el juego en vivo.
 
-👉 **Puedes jugar en vivo aquí:** [https://github.io](https://github.io)
+👉 **Puedes jugar en vivo aquí:** [https://github.io](https://lucy-nube.github.io/Proyect-Reactjs/)
