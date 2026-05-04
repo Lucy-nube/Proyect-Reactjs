@@ -29,7 +29,7 @@ Si deseas descargar el proyecto y correrlo en tu máquina local, sigue estos pas
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Lucy-nube/Proyect-Reactjs.git
    ```
 2. **Entrar a la carpeta:**
    ```bash
